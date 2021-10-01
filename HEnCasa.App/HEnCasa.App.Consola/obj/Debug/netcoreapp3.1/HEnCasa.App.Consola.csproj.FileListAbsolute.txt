@@ -1,0 +1,156 @@
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Consola
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Consola.deps.json
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Consola.runtimeconfig.json
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Consola.runtimeconfig.dev.json
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Consola.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Consola.pdb
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Dominio.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Persistencia.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Persistencia.pdb
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Dominio.pdb
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.csprojAssemblyReference.cache
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.AssemblyInfoInputs.cache
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.AssemblyInfo.cs
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.csproj.CoreCompileInputs.cache
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.csproj.CopyComplete
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.pdb
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.genruntimeconfig.cache
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Humanizer.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Consola
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Consola.deps.json
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Consola.runtimeconfig.json
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Consola.runtimeconfig.dev.json
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Consola.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Consola.pdb
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Humanizer.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Win32.Registry.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Security.AccessControl.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Security.Principal.Windows.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Text.Encoding.CodePages.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/System.Windows.Extensions.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Dominio.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Persistencia.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Persistencia.pdb
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/bin/Debug/netcoreapp3.1/HEnCasa.App.Dominio.pdb
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.csprojAssemblyReference.cache
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.AssemblyInfoInputs.cache
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.AssemblyInfo.cs
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.csproj.CoreCompileInputs.cache
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.csproj.CopyComplete
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.pdb
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Consola/obj/Debug/netcoreapp3.1/HEnCasa.App.Consola.genruntimeconfig.cache
