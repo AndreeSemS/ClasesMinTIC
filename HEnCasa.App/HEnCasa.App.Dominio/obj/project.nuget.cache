@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VxlDy2L9ETv0RFDogbOJ3Zxmm51SXkjY/IcAgmwvCGL3YYFR8W87dGD79JsaJqWQE3ApzS17+6zvJbflv/S4qg==",
+  "success": true,
+  "projectFilePath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "/home/camilinhi/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/camilinhi/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
