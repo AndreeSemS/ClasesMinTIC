@@ -1,0 +1,24 @@
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.csprojAssemblyReference.cache
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.AssemblyInfo.cs
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HEnCasa.App.Persistencia.deps.json
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HEnCasa.App.Persistencia.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HEnCasa.App.Persistencia.pdb
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HEnCasa.App.Dominio.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HEnCasa.App.Dominio.pdb
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.csproj.CopyComplete
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.dll
+/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.pdb
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HEnCasa.App.Persistencia.deps.json
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HEnCasa.App.Persistencia.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HEnCasa.App.Persistencia.pdb
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HEnCasa.App.Dominio.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/bin/Debug/netstandard2.1/HEnCasa.App.Dominio.pdb
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.csprojAssemblyReference.cache
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.AssemblyInfo.cs
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.csproj.CopyComplete
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.dll
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/obj/Debug/netstandard2.1/HEnCasa.App.Persistencia.pdb
