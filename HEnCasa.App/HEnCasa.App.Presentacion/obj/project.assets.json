@@ -5743,11 +5743,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Presentacion/HEnCasa.App.Presentacion.csproj",
+      "projectUniqueName": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Presentacion/HEnCasa.App.Presentacion.csproj",
       "projectName": "HEnCasa.App.Presentacion",
-      "projectPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Presentacion/HEnCasa.App.Presentacion.csproj",
+      "projectPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Presentacion/HEnCasa.App.Presentacion.csproj",
       "packagesPath": "/home/andree/.nuget/packages/",
-      "outputPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Presentacion/obj/",
+      "outputPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Presentacion/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/andree/.nuget/NuGet/NuGet.Config"
@@ -5761,11 +5761,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj": {
-              "projectPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj"
+            "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj": {
+              "projectPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj"
             },
-            "/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/HEnCasa.App.Persistencia.csproj": {
-              "projectPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Persistencia/HEnCasa.App.Persistencia.csproj"
+            "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Persistencia/HEnCasa.App.Persistencia.csproj": {
+              "projectPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Persistencia/HEnCasa.App.Persistencia.csproj"
             }
           }
         }

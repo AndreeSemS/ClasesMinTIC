@@ -15,15 +15,15 @@ namespace HEnCasa.App.ConsolaPrueba{
 
         private static void AddPaciente(){
             var paciente = new Paciente{
-                Nombre = "Diana",
-                Apellidos = "Perea",
-                Telefono = "8791245",
+                Nombre = "Luciana",
+                Apellidos = "Nuñez",
+                Telefono = "83894101",
                 Genero = Genero.femenino,
-                Direccion = "Calle 24 N 1-9",
-                Longitud = -84.8,
-                Latitud = 100.7,
-                Ciudad = "Casanare",
-                FechaNacimiento = "08/02/1984"
+                Direccion = "Carrera 48 # 3-4 sur",
+                Longitud = 24.3,
+                Latitud = 87.1,
+                Ciudad = "Cauca",
+                FechaNacimiento = "27/02/1980"
             };
             _repoPaciente.AddPaciente(paciente);
         }

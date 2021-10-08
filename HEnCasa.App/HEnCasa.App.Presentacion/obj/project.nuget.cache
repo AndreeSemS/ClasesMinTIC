@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qz3ilAbRbYH67T3eLgvZBoqTcD5dNLCPTzkt6LXVlM17HHg62b3KSNUn4wPpqLzE9zEmK9HQdHheDvpuY3CZpA==",
+  "dgSpecHash": "9snMOhZWzUco163H3SZE6hMaAWNegs637SAQx/Hv/wj3i0VO/5nb1iOCscT7+n5IjoRNkMxFHqGPHo3ZmV/VRQ==",
   "success": true,
-  "projectFilePath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Presentacion/HEnCasa.App.Presentacion.csproj",
+  "projectFilePath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Presentacion/HEnCasa.App.Presentacion.csproj",
   "expectedPackageFiles": [
     "/home/andree/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/home/andree/.nuget/packages/microsoft.data.sqlclient/2.0.1/microsoft.data.sqlclient.2.0.1.nupkg.sha512",

@@ -180,19 +180,19 @@
     ]
   },
   "packageFolders": {
-    "/home/camilinhi/.nuget/packages/": {}
+    "/home/andree/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj",
+      "projectUniqueName": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj",
       "projectName": "HEnCasa.App.Dominio",
-      "projectPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj",
-      "packagesPath": "/home/camilinhi/.nuget/packages/",
-      "outputPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software/HEnCasa.App/HEnCasa.App.Dominio/obj/",
+      "projectPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj",
+      "packagesPath": "/home/andree/.nuget/packages/",
+      "outputPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/camilinhi/.nuget/NuGet/NuGet.Config"
+        "/home/andree/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
