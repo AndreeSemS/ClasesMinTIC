@@ -25,7 +25,7 @@ namespace HEnCasa.App.Presentacion.Page{
 
         public IActionResult OnPost(Paciente paciente){
             _repoPaciente.AddPaciente(paciente);
-            return RedirectToPage("Index");
+            return RedirectToPage("/Paciente/Paciente");
         }
     }
 }

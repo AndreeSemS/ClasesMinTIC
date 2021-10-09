@@ -183,3 +183,5 @@
 /home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/HEnCasa.App.Presentacion.pdb
 /home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/HEnCasa.App.Presentacion.genruntimeconfig.cache
 /home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Paciente/Crear.cshtml.g.cs
+/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Paciente/Actualizar.cshtml.g.cs
+/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Paciente/Eliminar.cshtml.g.cs
