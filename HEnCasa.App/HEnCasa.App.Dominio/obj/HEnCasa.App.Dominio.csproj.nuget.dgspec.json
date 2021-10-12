@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj": {}
+    "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj": {}
   },
   "projects": {
-    "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj": {
+    "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj",
+        "projectUniqueName": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj",
         "projectName": "HEnCasa.App.Dominio",
-        "projectPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj",
-        "packagesPath": "/home/andree/.nuget/packages/",
-        "outputPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/obj/",
+        "projectPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj",
+        "packagesPath": "/home/camilinhi/.nuget/packages/",
+        "outputPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Dominio/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/andree/.nuget/NuGet/NuGet.Config"
+          "/home/camilinhi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"

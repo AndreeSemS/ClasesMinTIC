@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Rf6wuY/zz2OXfyrbXAYE1Ly6GQAbTnlhmZOnPh3H/okT/o4Wa+zfid/rFk9N3+EPsJDWlQ4UvAMRcJzNzwr+LA==",
+  "dgSpecHash": "eUWCJJMQHQZ8hA014YKXGFkK0JPPJf/nTSGVyFOz5rggSoalVUslW1h63yd6LnzSQqGc1pJEyizBXL8Cv6jAxg==",
   "success": true,
-  "projectFilePath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj",
+  "projectFilePath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "/home/andree/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/home/andree/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "/home/camilinhi/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/camilinhi/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

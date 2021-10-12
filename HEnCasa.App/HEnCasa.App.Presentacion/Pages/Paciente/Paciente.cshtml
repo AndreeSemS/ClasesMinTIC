@@ -8,28 +8,31 @@
     <h1>Lista de pacientes</h1>
 </div>
 
-<a class="btn btn-primary" asp-page="./Crear">Ingresar nuevo paciente</a><br><br>
+<a class="btn btn-primary" asp-page="./Crear">Ingresar nuevo paciente</a>
+<a class="btn btn-primary" asp-page="./Consultar">Consultar paciente</a><br><br>
 
 <table class = "table">
     <thead></thead>
         <tr>
             <th scope = 'col'>Nombre</th>
             <th scope = 'col'>Apellidos</th>
+            <th scope = 'col'>Medico asignado</th>
             <th scope = 'col'>Telefono</th>
             <th scope = 'col'>Dirección</th>
             <th scope = 'col'>Ciudad</th>
             <th scope = 'col'>Fecha de nacimiento</th>
         </tr>
     </thead>
-    @foreach (var item in Model.ListaPacientes){
-        <tr>
-            <td>@item.Nombre</td>
-            <td>@item.Apellidos</td>
-            <td>@item.Telefono</td>
-            <td>@item.Direccion</td>
-            <td>@item.Ciudad</td>
-            <td>@item.FechaNacimiento</td>
-            <td><a class="btn btn-primary" asp-page="/Paciente/Actualizar" asp-route-id="@item.Id">Editar</a></td>
-            <td><a class="btn btn-danger" asp-page="/Paciente/Eliminar" asp-route-id="@item.Id">Eliminar</a></td>
-        </tr>
+    @foreach(var item in Model.ListaPacientes){
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Apellidos</td>
+                <td>@item.Medico</td>
+                <td>@item.Telefono</td>
+                <td>@item.Direccion</td>
+                <td>@item.Ciudad</td>
+                <td>@item.FechaNacimiento</td>
+                <td><a class="btn btn-primary" asp-page="/Paciente/Actualizar" asp-route-id="@item.Id">Editar</a></td>
+                <td><a class="btn btn-danger" asp-page="/Paciente/Eliminar" asp-route-id="@item.Id">Eliminar</a></td>
+            </tr>
     }

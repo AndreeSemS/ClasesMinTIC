@@ -1,6 +1,7 @@
-using System.Collections.Generic;
 using System.Linq;
 using HEnCasa.App.Dominio;
+using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
 
 namespace HEnCasa.App.Persistencia{
 
@@ -15,6 +16,10 @@ namespace HEnCasa.App.Persistencia{
 */
         IEnumerable<Paciente> IRepositorioPaciente.GetAllPacientes(){
             return _appContext.Pacientes;
+        }
+
+        IEnumerable<Paciente> IRepositorioPaciente.GetAllMedicosPacientes(){
+            return _appContext.Pacientes.Where(p => p.Medico!=null).ToList();
         }
 
         Paciente IRepositorioPaciente.AddPaciente(Paciente paciente){
@@ -56,6 +61,17 @@ namespace HEnCasa.App.Persistencia{
 
         Paciente IRepositorioPaciente.GetPaciente(int idPaciente){
             return _appContext.Pacientes.FirstOrDefault(p => p.Id==idPaciente);
+        }
+
+        void IRepositorioPaciente.SetMedico(int idPaciente, Medico medico){
+            var pacienteEncontrado=_appContext.Pacientes.FirstOrDefault(p => p.Id==idPaciente);
+
+            if(pacienteEncontrado!=null){
+                if(pacienteEncontrado.Medico==null){
+                    pacienteEncontrado.Medico=medico;
+                }
+            }
+            _appContext.SaveChanges();
         }
     }
 }

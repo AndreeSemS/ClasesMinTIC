@@ -14,16 +14,26 @@ namespace HEnCasa.App.ConsolaPrueba{
         }
 
         private static void AddPaciente(){
+            var medico = new Medico{
+                Nombre = "Juan Carlos",
+                Apellidos = "Acosta",
+                Telefono = "3205647",
+                Genero = Genero.masculino,
+                Especialidad = "Optometria",
+                Codigo = "2376"
+            };
+
             var paciente = new Paciente{
-                Nombre = "Luciana",
-                Apellidos = "Nuñez",
-                Telefono = "83894101",
+                Nombre = "Martha",
+                Apellidos = "Fonseca",
+                Medico = medico,
+                Telefono = "7456523",
                 Genero = Genero.femenino,
-                Direccion = "Carrera 48 # 3-4 sur",
-                Longitud = 24.3,
-                Latitud = 87.1,
-                Ciudad = "Cauca",
-                FechaNacimiento = "27/02/1980"
+                Direccion = "Calle 24 # 33-44",
+                Longitud = -45.3,
+                Latitud = 1.1,
+                Ciudad = "Villavicencio",
+                FechaNacimiento = "04/05/1972",
             };
             _repoPaciente.AddPaciente(paciente);
         }

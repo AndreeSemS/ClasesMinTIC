@@ -14,6 +14,7 @@ namespace HEnCasa.App.Presentacion.Page{
         private readonly IRepositorioPaciente _repoPaciente;
 
         public IEnumerable<Paciente> ListaPacientes {get; set;}
+        public IEnumerable<Paciente> ListaMedicosPacientes {get; set;}
 
         public PacienteModel(IRepositorioPaciente _repoPaciente){
             this._repoPaciente = _repoPaciente;
@@ -22,6 +23,7 @@ namespace HEnCasa.App.Presentacion.Page{
         public void OnGet(){
 
             ListaPacientes = _repoPaciente.GetAllPacientes(); 
+            ListaMedicosPacientes = _repoPaciente.GetAllMedicosPacientes();
 
         }
     }
