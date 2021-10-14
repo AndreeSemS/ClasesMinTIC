@@ -1,0 +1,25 @@
+﻿@page
+@model HEnCasa.App.Presentacion.Page.MedicoModel
+@{
+    ViewData["Title"] = "Listado de medicos";
+}
+
+<div class="text-center">
+    <h1>Lista de medicos</h1>
+</div>
+
+<table class = "table">
+    <thead></thead>
+        <tr>
+            <th scope = 'col'>Nombre</th>
+            <th scope = 'col'>Apellidos</th>
+        </tr>
+    </thead>
+    @foreach(var item in Model.ListaMedicos){
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Apellidos</td>
+                <td><a class="btn btn-primary" asp-page="/Paciente/Actualizar" asp-route-id="@item.Id">Editar</a></td>
+                <td><a class="btn btn-danger" asp-page="/Paciente/Eliminar" asp-route-id="@item.Id">Eliminar</a></td>
+            </tr>
+    }

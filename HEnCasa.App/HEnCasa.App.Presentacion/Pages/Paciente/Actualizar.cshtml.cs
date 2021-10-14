@@ -15,12 +15,14 @@ namespace HEnCasa.App.Presentacion.Page{
         private readonly IRepositorioPaciente _repoPaciente;
 
         public Paciente paciente {get; set;}
+        public Medico medico {get; set;}
 
         public ActualizarModel(IRepositorioPaciente _repoPaciente){
         this._repoPaciente = _repoPaciente;
         }
 
         public IActionResult OnGet(int id){
+            medico = _repoPaciente.GetMedicoPaciente(id);
             paciente = _repoPaciente.GetPaciente(id);
             return Page();
         }

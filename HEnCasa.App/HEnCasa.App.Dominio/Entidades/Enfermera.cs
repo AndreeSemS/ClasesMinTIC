@@ -1,8 +1,13 @@
 namespace HEnCasa.App.Dominio{
-    public class Enfermera:Persona{
 
-        public int IdEnfermera {get; set;}
-        public string TarjetaProfesional {get; set;}
-        public int HorasLaborales {get; set;}
+    public class Enfermera{
+
+        public int Id {get; set;}
+        public string Nombre {get; set;}
+        public string Apellidos {get; set;}
+        public string Telefono {get; set;}
+        public string Genero {get; set;}
+        //public int PacienteId {get; set;}
+        public Paciente Paciente {get; set;}
     }
 }

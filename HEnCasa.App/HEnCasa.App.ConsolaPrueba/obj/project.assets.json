@@ -5738,19 +5738,19 @@
     ]
   },
   "packageFolders": {
-    "/home/camilinhi/.nuget/packages/": {}
+    "/home/andree/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.ConsolaPrueba/HEnCasa.App.ConsolaPrueba.csproj",
+      "projectUniqueName": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.ConsolaPrueba/HEnCasa.App.ConsolaPrueba.csproj",
       "projectName": "HEnCasa.App.ConsolaPrueba",
-      "projectPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.ConsolaPrueba/HEnCasa.App.ConsolaPrueba.csproj",
-      "packagesPath": "/home/camilinhi/.nuget/packages/",
-      "outputPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.ConsolaPrueba/obj/",
+      "projectPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.ConsolaPrueba/HEnCasa.App.ConsolaPrueba.csproj",
+      "packagesPath": "/home/andree/.nuget/packages/",
+      "outputPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.ConsolaPrueba/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/camilinhi/.nuget/NuGet/NuGet.Config"
+        "/home/andree/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5761,11 +5761,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj": {
-              "projectPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj"
+            "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj": {
+              "projectPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj"
             },
-            "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Persistencia/HEnCasa.App.Persistencia.csproj": {
-              "projectPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Persistencia/HEnCasa.App.Persistencia.csproj"
+            "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Persistencia/HEnCasa.App.Persistencia.csproj": {
+              "projectPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Persistencia/HEnCasa.App.Persistencia.csproj"
             }
           }
         }

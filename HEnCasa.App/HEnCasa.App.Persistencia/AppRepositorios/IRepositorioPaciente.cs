@@ -7,7 +7,7 @@ namespace HEnCasa.App.Persistencia{
 
         IEnumerable<Paciente> GetAllPacientes();
 
-        IEnumerable<Paciente> GetAllMedicosPacientes();
+        Medico GetMedicoPaciente(int idPaciente);
 
         Paciente AddPaciente(Paciente paciente);
 
@@ -17,6 +17,6 @@ namespace HEnCasa.App.Persistencia{
 
         Paciente GetPaciente(int idPaciente);
 
-        void SetMedico(int Paciente, Medico medico);
+        void ChangeMedico(int Paciente, Medico medico);
     }
 }

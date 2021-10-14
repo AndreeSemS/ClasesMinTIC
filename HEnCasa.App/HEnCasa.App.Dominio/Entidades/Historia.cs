@@ -6,5 +6,7 @@ namespace HEnCasa.App.Dominio{
         public string Diagnostico {get; set;}
         public SignoVital SignoVital {get; set;}
         public SugerenciaCuidado SugerenciaCuidado {get; set;}
+        //public int PacienteId {get; set;}
+        public Paciente Paciente {get; set;}
     }
 }

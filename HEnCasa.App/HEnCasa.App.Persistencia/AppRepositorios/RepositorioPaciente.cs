@@ -9,17 +9,8 @@ namespace HEnCasa.App.Persistencia{
 
         private readonly AppContext _appContext = new AppContext();
 
-/*
-        public RepositorioPaciente(AppContext _appContext){
-            this._appContext = _appContext;
-        }
-*/
         IEnumerable<Paciente> IRepositorioPaciente.GetAllPacientes(){
             return _appContext.Pacientes;
-        }
-
-        IEnumerable<Paciente> IRepositorioPaciente.GetAllMedicosPacientes(){
-            return _appContext.Pacientes.Where(p => p.Medico!=null).ToList();
         }
 
         Paciente IRepositorioPaciente.AddPaciente(Paciente paciente){
@@ -36,11 +27,9 @@ namespace HEnCasa.App.Persistencia{
                 pacienteEncontrado.Telefono = paciente.Telefono;
                 pacienteEncontrado.Genero = paciente.Genero;
                 pacienteEncontrado.Direccion = paciente.Direccion;
-                pacienteEncontrado.Latitud = paciente.Latitud;
-                pacienteEncontrado.Longitud = paciente.Longitud;
                 pacienteEncontrado.Ciudad = paciente.Ciudad;
                 pacienteEncontrado.FechaNacimiento = paciente.FechaNacimiento;
-                pacienteEncontrado.FamiliarDesignado = paciente.FamiliarDesignado;
+                pacienteEncontrado.Familiar = paciente.Familiar;
                 pacienteEncontrado.Enfermera = paciente.Enfermera;
                 pacienteEncontrado.Medico= paciente.Medico;
                 pacienteEncontrado.Historia= paciente.Historia;
@@ -63,7 +52,12 @@ namespace HEnCasa.App.Persistencia{
             return _appContext.Pacientes.FirstOrDefault(p => p.Id==idPaciente);
         }
 
-        void IRepositorioPaciente.SetMedico(int idPaciente, Medico medico){
+        Medico IRepositorioPaciente.GetMedicoPaciente(int idPaciente){
+            var pacienteSeleccionado = _appContext.Pacientes.FirstOrDefault(p => p.Id==idPaciente);
+            return _appContext.Medicos.FirstOrDefault(m => m.Id==pacienteSeleccionado.MedicoId);
+        }
+
+        void IRepositorioPaciente.ChangeMedico(int idPaciente, Medico medico){
             var pacienteEncontrado=_appContext.Pacientes.FirstOrDefault(p => p.Id==idPaciente);
 
             if(pacienteEncontrado!=null){
