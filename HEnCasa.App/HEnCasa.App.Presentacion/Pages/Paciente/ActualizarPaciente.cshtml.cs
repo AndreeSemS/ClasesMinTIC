@@ -10,14 +10,14 @@ using HEnCasa.App.Dominio;
 
 namespace HEnCasa.App.Presentacion.Page{
     
-    public class ActualizarModel : PageModel{
+    public class ActualizarPacienteModel : PageModel{
 
         private readonly IRepositorioPaciente _repoPaciente;
 
         public Paciente paciente {get; set;}
         public Medico medico {get; set;}
 
-        public ActualizarModel(IRepositorioPaciente _repoPaciente){
+        public ActualizarPacienteModel(IRepositorioPaciente _repoPaciente){
         this._repoPaciente = _repoPaciente;
         }
 

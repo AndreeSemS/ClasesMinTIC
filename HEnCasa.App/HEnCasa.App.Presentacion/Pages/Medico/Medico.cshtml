@@ -16,10 +16,10 @@
         </tr>
     </thead>
     @foreach(var item in Model.ListaMedicos){
-            <tr>
-                <td>@item.Nombre</td>
-                <td>@item.Apellidos</td>
-                <td><a class="btn btn-primary" asp-page="/Paciente/Actualizar" asp-route-id="@item.Id">Editar</a></td>
-                <td><a class="btn btn-danger" asp-page="/Paciente/Eliminar" asp-route-id="@item.Id">Eliminar</a></td>
-            </tr>
+        <tr>
+            <td>@item.Nombre</td>
+            <td>@item.Apellidos</td>
+            
+            <!--<td><a class="btn btn-danger" asp-page="/Medico/Eliminar" asp-route-id="@item.Id">Eliminar</a></td>-->
+        </tr>   
     }

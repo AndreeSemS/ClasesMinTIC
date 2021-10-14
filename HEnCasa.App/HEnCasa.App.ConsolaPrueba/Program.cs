@@ -36,7 +36,7 @@ namespace HEnCasa.App.ConsolaPrueba{
                 Telefono = "96344147",
                 Genero = "Masculino",
                 Especialidad = "General",
-                Codigo = "7896"
+                Codigo = "7896",
             };
 
             var paciente = new Paciente{
@@ -78,7 +78,6 @@ namespace HEnCasa.App.ConsolaPrueba{
             historia.Paciente = paciente;
             familiar.Paciente = paciente;
             enfermera.Paciente = paciente;
-
             //_repoMedico.AddMedico(medico);
             _repoPaciente.AddPaciente(paciente);
         }

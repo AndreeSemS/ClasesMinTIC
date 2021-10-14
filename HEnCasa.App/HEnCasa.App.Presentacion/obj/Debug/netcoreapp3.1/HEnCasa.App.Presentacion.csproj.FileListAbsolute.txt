@@ -357,9 +357,7 @@
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/HEnCasa.App.Presentacion.RazorCoreGenerate.cache
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
-/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Paciente/Actualizar.cshtml.g.cs
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Paciente/Crear.cshtml.g.cs
-/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Paciente/Eliminar.cshtml.g.cs
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Paciente/Paciente.cshtml.g.cs
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
@@ -376,3 +374,7 @@
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/HEnCasa.App.Presentacion.pdb
 /home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/HEnCasa.App.Presentacion.genruntimeconfig.cache
 /home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Paciente/Medico.cshtml.g.cs
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Medico/ActualizarMedico.cshtml.g.cs
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Medico/Medico.cshtml.g.cs
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Paciente/ActualizarPaciente.cshtml.g.cs
+/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Presentacion/obj/Debug/netcoreapp3.1/Razor/Pages/Paciente/EliminarPaciente.cshtml.g.cs

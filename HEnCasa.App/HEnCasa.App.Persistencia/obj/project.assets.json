@@ -7263,19 +7263,19 @@
     ]
   },
   "packageFolders": {
-    "/home/andree/.nuget/packages/": {}
+    "/home/camilinhi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Persistencia/HEnCasa.App.Persistencia.csproj",
+      "projectUniqueName": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Persistencia/HEnCasa.App.Persistencia.csproj",
       "projectName": "HEnCasa.App.Persistencia",
-      "projectPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Persistencia/HEnCasa.App.Persistencia.csproj",
-      "packagesPath": "/home/andree/.nuget/packages/",
-      "outputPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Persistencia/obj/",
+      "projectPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Persistencia/HEnCasa.App.Persistencia.csproj",
+      "packagesPath": "/home/camilinhi/.nuget/packages/",
+      "outputPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Persistencia/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/andree/.nuget/NuGet/NuGet.Config"
+        "/home/camilinhi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
@@ -7286,8 +7286,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj": {
-              "projectPath": "/home/andree/Documentos/TIC/Programación/Desarrollo_Soft_GitHub/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj"
+            "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj": {
+              "projectPath": "/home/camilinhi/Documentos/CAMILA/Mision TIC/Diseño Software/Desarrollo_Software_Andree/HEnCasa.App/HEnCasa.App.Dominio/HEnCasa.App.Dominio.csproj"
             }
           }
         }

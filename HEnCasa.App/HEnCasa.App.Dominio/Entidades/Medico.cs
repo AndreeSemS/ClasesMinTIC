@@ -9,7 +9,6 @@ namespace HEnCasa.App.Dominio{
         public string Apellidos {get; set;}
         public string Telefono {get; set;}
         public string Genero {get; set;}
-        public List<Paciente> Pacientes {get; set;}
         public string Especialidad {get; set;}
         public string Codigo {get; set;}
     }
