@@ -8,8 +8,6 @@ namespace HEnCasa.App.Dominio{
         public string Telefono {get; set;}
         public string Genero {get; set;}
         public string Correo {get; set;}
-        //public int PacienteId {get; set;}
-        public Paciente Paciente {get; set;}
         public string Parentesco {get; set;}
     }
 }
